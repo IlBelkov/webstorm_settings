@@ -1,7 +1,8 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="defaultProjectDirectory" value="D:\web\crm_santiagoways\front-end" />
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="StatusBar">
