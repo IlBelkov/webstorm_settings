@@ -274,18 +274,14 @@
           <option name="url" value="https://gitlab.com/hmns/bmw-shop-frontend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.0.14:8443" />
+          <option name="userName" value="ilya_b" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-      </list>
-    </option>
   </component>
 </application>
