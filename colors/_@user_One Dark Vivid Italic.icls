@@ -3,7 +3,7 @@
     <property name="created">2021-01-15T00:42:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-01-15T01:28:53</property>
+    <property name="modified">2021-01-15T01:41:00</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -2070,8 +2070,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ee1717" />
-        <option name="BACKGROUND" value="d7eff3" />
+        <option name="FOREGROUND" value="7bee17" />
+        <option name="BACKGROUND" value="69695f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
