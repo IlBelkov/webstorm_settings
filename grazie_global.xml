@@ -6,13 +6,6 @@
         <option value="Russian" />
       </set>
     </option>
-    <option name="enabledGrammarStrategies">
-      <set>
-        <option value="JavaScript:JavaScript" />
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-      </set>
-    </option>
     <option name="checkingContext">
       <CheckingContext>
         <option name="isCheckInCommitMessagesEnabled" value="true" />
