@@ -1161,8 +1161,8 @@
         <entry key="*.sql">
           <value>
             <plugin>
-              <option name="myPluginId" value="DBN" />
-              <option name="myPluginName" value="Database Navigator" />
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL for WebStorm" />
             </plugin>
           </value>
         </entry>
