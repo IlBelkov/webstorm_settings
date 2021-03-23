@@ -290,6 +290,55 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqlconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqld">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqle">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.graphqls">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.lang.jsgraphql" />
+              <option name="myPluginName" value="JS GraphQL" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.haml">
           <value>
             <plugin>
@@ -323,6 +372,14 @@
               <option name="myPluginId" value="com.dmarcotte.handlebars" />
               <option name="myPluginName" value="Handlebars/Mustache" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.hcl">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
             </plugin>
           </value>
         </entry>
@@ -722,6 +779,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.nomad">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
@@ -746,6 +811,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pb">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
             </plugin>
           </value>
         </entry>
@@ -830,12 +903,44 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.proto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ps1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.psd">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psd1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psm1">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.plugin.adernov.powershell" />
+              <option name="myPluginName" value="PowerShell" />
             </plugin>
           </value>
         </entry>
@@ -1016,6 +1121,30 @@
               <option name="myPluginId" value="com.intellij.jsp" />
               <option name="myPluginName" value="Java Server Pages (JSP)" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.textproto">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="idea.plugin.protoeditor" />
+              <option name="myPluginName" value="Protocol Buffer Editor" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tfvars">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.hcl" />
+              <option name="myPluginName" value="HashiCorp Terraform / HCL language support" />
             </plugin>
           </value>
         </entry>
@@ -1561,6 +1690,16 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Terraform" pluginName="HashiCorp Terraform / HCL language support" pluginId="org.intellij.plugins.hcl" />
+                    </value>
+                  </entry>
+                  <entry key="BatchConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
@@ -1629,6 +1768,11 @@
                   <entry key="PhoneGap">
                     <value>
                       <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" />
+                    </value>
+                  </entry>
+                  <entry key="PowerShellRunType">
+                    <value>
+                      <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
