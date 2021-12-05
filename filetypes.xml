@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Test" type="AUTO_DETECTED" />
       <mapping pattern="styles.js" type="AUTO_DETECTED" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
