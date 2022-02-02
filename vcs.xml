@@ -6,6 +6,10 @@
           <option name="url" value="http://git.assembla.com" />
           <option name="userName" value="ilia_belkov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="SashaNevezhina" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
