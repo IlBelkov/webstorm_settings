@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Test" type="AUTO_DETECTED" />
+      <mapping pattern="база ответов химовозы (1)" type="AUTO_DETECTED" />
       <mapping pattern="styles.js" type="AUTO_DETECTED" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
